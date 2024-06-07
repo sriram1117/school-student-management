@@ -1,0 +1,115 @@
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+
+/* navbar */
+
+#navbar {
+    height: 60px;
+}
+
+#fname {
+    font-family: lucida console;
+    font-weight: 500;
+}
+
+
+.nav-item {
+    text-transform: uppercase;
+    padding-left: 15px;
+}
+
+.nav-item:hover a {
+    border-bottom: 1px solid black;
+}
+
+/* Image carousel */
+
+#carImg {
+    opacity: 1.0;
+}
+
+#Imgcar {
+    max-height: 500px;
+}
+
+#car-caption {
+    color: #0009;
+    /* background-color: #fff; */
+    border-radius: 15px;
+    position: relative;
+    /* bottom: 160px; */
+    text-decoration: underline;
+}
+
+/* Image gallery */
+
+#col {
+    /* height: 300px; */
+    padding: 10px;
+}
+
+#ImgGallery {
+    height: 200px;
+    width: 100%;
+}
+
+/* Footer */
+
+a {
+    /* display: block; */
+    /* text-align: center; */
+    /* margin-right: 10px; */
+    text-decoration: none;
+    color: black;
+    padding-bottom: 15px;
+}
+
+#footer {
+    background-color: #0001;
+}
+
+#qlinks1:hover a {
+    color: steelblue;
+}
+
+#qlinks2:hover a {
+    color: steelblue;
+}
+
+#qlinks3:hover a {
+    color: steelblue;
+}
+
+#fBottom {
+    margin-top: 8px;
+}
+
+/* Cards */
+
+.card {
+    margin: 10px;
+}
+
+#maDesc {
+    margin-bottom: 16px;
+    margin-top: 19px;
+}
+
+#cardBtn {
+    border-radius: 25px;
+}
+
+/* About us */
+
+/* Contact us */
+
+/* #bcg {
+    background-color: red;
+    border: 1px solid black;
+    height: 600px;
+    width: 50%;
+} */
